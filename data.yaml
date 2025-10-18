@@ -1,0 +1,5 @@
+names:
+- fall
+nc: 1
+train: /workspaces/Club-1/data/train/images
+val: /workspaces/Club-1/data/validation/images
